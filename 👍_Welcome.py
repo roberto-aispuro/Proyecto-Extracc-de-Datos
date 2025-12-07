@@ -16,4 +16,3 @@ st.markdown("""
 - **KPIs y Causas** → Motivos y estadísticas clave
 """)
 
-st.info("Ejecuta el menú principal con `python main.py` → opción 3 para abrir este dashboard")
